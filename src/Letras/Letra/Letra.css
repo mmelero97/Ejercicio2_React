@@ -1,0 +1,12 @@
+.Letra {
+    display: inline-block;
+    margin: 16px auto;
+    padding: 16px;
+    margin: 16px;
+    box-shadow: 0 2px 3px #ccc;
+    border: 1px solid #eee;
+    padding: 16px;
+    text-align: center;
+    
+}
+
